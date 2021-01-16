@@ -1,0 +1,6 @@
+for x in range(5):
+    y = x + x
+    print(y)
+
+print('hello')
+print('hello')
